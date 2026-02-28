@@ -126,3 +126,4 @@ See the `LICENSE` file for details.
 Developed by **Hiroshi Harada (2026)**.  
 Thanks to the open-source Python and SymPy communities.
 
+
